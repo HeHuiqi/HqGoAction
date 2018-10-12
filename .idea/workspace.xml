@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b683fd9e-a23c-4817-928f-7b4574d3cdc6" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/HqGoAction$TestErrWrapper_in_HqGoAction_filelistserver.out" NAME="TestErrWrapper in HqGoAction/filelistserver Coverage Results" MODIFIED="1539075887935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="HqGoAction" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="hqmiddleware.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hqmiddleware/hqmiddleware.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+              <folding>
+                <element signature="e#14#44#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hqrouter.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hqmiddleware/hqrouter/hqrouter.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.go" pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/Cellar/go/1.10.1/libexec/src/net/http/server.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="1942" column="5" selection-start-line="1942" selection-start-column="5" selection-end-line="1942" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="time.go" pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/Cellar/go/1.10.1/libexec/src/time/time.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="236">
+              <caret line="619" column="5" selection-start-line="619" selection-start-column="5" selection-end-line="619" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>createWorker1</find>
+      <find>上海</find>
+    </findStrings>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.10.1/libexec" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/fib.txt" />
+        <option value="$PROJECT_DIR$/fibonaccci/token.go" />
+        <option value="$PROJECT_DIR$/filelistserver/mian.go" />
+        <option value="$PROJECT_DIR$/fibonaccci/main.go" />
+        <option value="$PROJECT_DIR$/filelistserver/listfileserver_test.go" />
+        <option value="$PROJECT_DIR$/filelistserver/handler/handler.go" />
+        <option value="$PROJECT_DIR$/goroutine/goroutine.go" />
+        <option value="$PROJECT_DIR$/goroutine/hachannel/hachannel.go" />
+        <option value="$PROJECT_DIR$/goroutine/hachannel/hqchannel.go" />
+        <option value="$PROJECT_DIR$/goroutine/hachannel/hachannel1.go" />
+        <option value="$PROJECT_DIR$/goroutine/hachannel/hqchannel2.go" />
+        <option value="$PROJECT_DIR$/goroutine/hqchannel/hqchannel1.go" />
+        <option value="$PROJECT_DIR$/goroutine/hqchannel/hqchannel2.go" />
+        <option value="$PROJECT_DIR$/goroutine/hqselect/hqselect.go" />
+        <option value="$PROJECT_DIR$/goroutine/mian.go" />
+        <option value="$PROJECT_DIR$/goroutine/hqchannel/hqchannel.go" />
+        <option value="$PROJECT_DIR$/goroutine/hqselect/hqselect1.go" />
+        <option value="$PROJECT_DIR$/hqmux/main.go" />
+        <option value="$PROJECT_DIR$/filelistserver/main.go" />
+        <option value="$PROJECT_DIR$/migong" />
+        <option value="$PROJECT_DIR$/hqmigong/main.go" />
+        <option value="$PROJECT_DIR$/httpclient/httpclient.go" />
+        <option value="$PROJECT_DIR$/haregx/hqregx.go" />
+        <option value="$PROJECT_DIR$/hqmiddleware/hqrouter/hqtoure.go" />
+        <option value="$PROJECT_DIR$/hqmiddleware/hqrouter/hqrouter.go" />
+        <option value="$PROJECT_DIR$/hqmiddleware/hqmiddleware.go" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="633" />
+    <option name="y" value="141" />
+    <option name="width" value="1321" />
+    <option name="height" value="1049" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HqGoAction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HqGoAction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HqGoAction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HqGoAction" type="462c0819:PsiDirectoryNode" />
+              <item name="haregx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HqGoAction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HqGoAction" type="462c0819:PsiDirectoryNode" />
+              <item name="hqmiddleware" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HqGoAction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HqGoAction" type="462c0819:PsiDirectoryNode" />
+              <item name="hqmiddleware" type="462c0819:PsiDirectoryNode" />
+              <item name="hqrouter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HqGoAction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HqGoAction" type="462c0819:PsiDirectoryNode" />
+              <item name="hqmigong" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HqGoAction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HqGoAction" type="462c0819:PsiDirectoryNode" />
+              <item name="hqmux" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HqGoAction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HqGoAction" type="462c0819:PsiDirectoryNode" />
+              <item name="httpclient" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hqmigong" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/goroutine/hachannel" />
+      <recent name="$PROJECT_DIR$/goroutine" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build hqmiddleware.go">
+    <configuration name="go build hqmiddleware.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="HqGoAction" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/hqmiddleware/hqmiddleware.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build hqregx.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="HqGoAction" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/haregx/hqregx.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build httpclient.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="HqGoAction" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/httpclient/httpclient.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="HqGoAction" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/hqmigong/main.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="HqGoAction" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/filelistserver/main.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build httpclient.go" />
+      <item itemvalue="Go Build.go build main.go" />
+      <item itemvalue="Go Build.go build main.go (1)" />
+      <item itemvalue="Go Build.go build hqregx.go" />
+      <item itemvalue="Go Build.go build hqmiddleware.go" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build hqmiddleware.go" />
+        <item itemvalue="Go Build.go build hqregx.go" />
+        <item itemvalue="Go Build.go build httpclient.go" />
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestErrWrapper_in_HqGoAction_filelistserver - 2018.10.09 at 16h 49m 24s.xml">
+      <configuration name="TestErrWrapper in HqGoAction/filelistserver" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestErrWrapper_in_HqGoAction_filelistserver - 2018.10.09 at 16h 50m 16s.xml">
+      <configuration name="TestErrWrapper in HqGoAction/filelistserver" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestErrWrapper_in_HqGoAction_filelistserver - 2018.10.09 at 16h 51m 05s.xml">
+      <configuration name="TestErrWrapper in HqGoAction/filelistserver" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestErrWrapper_in_HqGoAction_filelistserver - 2018.10.09 at 16h 59m 30s.xml">
+      <configuration name="TestErrWrapper in HqGoAction/filelistserver" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestErrWrapper_in_HqGoAction_filelistserver - 2018.10.09 at 16h 59m 49s.xml">
+      <configuration name="TestErrWrapper in HqGoAction/filelistserver" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestErrWrapper_in_HqGoAction_filelistserver - 2018.10.09 at 17h 04m 33s.xml">
+      <configuration name="TestErrWrapper in HqGoAction/filelistserver" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestErrWrapper_in_HqGoAction_filelistserver - 2018.10.09 at 17h 04m 48s.xml">
+      <configuration name="TestErrWrapper in HqGoAction/filelistserver" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestErrWrapper_in_HqGoAction_filelistserver - 2018.10.09 at 17h 05m 57s.xml">
+      <configuration name="TestErrWrapper in HqGoAction/filelistserver" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestErrWrapperInServer_in_HqGoAction_filelistserver - 2018.10.09 at 17h 10m 50s.xml">
+      <configuration name="TestErrWrapperInServer in HqGoAction/filelistserver" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestErrWrapperInServer_in_HqGoAction_filelistserver - 2018.10.09 at 17h 18m 36s.xml">
+      <configuration name="TestErrWrapperInServer in HqGoAction/filelistserver" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="633" y="141" width="1321" height="1049" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49918962" visible="true" weight="0.17044567" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.35084033" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info id="Structure" order="2" sideWeight="0.5006605" side_tool="true" weight="0.17044567" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.24684873" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39915967" />
+      <window_info id="Favorites" order="0" sideWeight="0.50161815" side_tool="true" weight="0.17044567" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32983193" />
+      <window_info anchor="right" id="Coverage" order="3" side_tool="true" weight="0.3292683" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hqmigong/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+          <folding>
+            <element signature="e#14#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/httpclient/httpclient.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="51" lean-forward="true" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haregx/hqregx.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="e#14#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hqmigong/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="40" column="30" lean-forward="true" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+          <folding>
+            <element signature="e#14#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filelistserver/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filelistserver/listfileserver_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filelistserver/handler/handler.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goroutine/mian.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="31" column="30" lean-forward="true" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goroutine/hqchannel/hqchannel.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2394">
+          <caret line="130" lean-forward="true" selection-start-line="130" selection-end-line="130" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fib.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fibonaccci/token.go" />
+    <entry file="file://$PROJECT_DIR$/filelistserver/main.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/local/Cellar/go/1.10.1/libexec/src/os/file.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="248" column="5" selection-start-line="248" selection-start-column="5" selection-end-line="248" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fibonaccci/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="110" column="6" lean-forward="true" selection-start-line="110" selection-start-column="6" selection-end-line="110" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table_test.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filelistserver/listfileserver_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goroutine/goroutine.go" />
+    <entry file="file://$PROJECT_DIR$/goroutine/hachannel/hachannel.go" />
+    <entry file="file://$PROJECT_DIR$/filelistserver/handler/handler.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goroutine/hqchannel/hqchannel1.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goroutine/hqchannel/hqchannel2.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goroutine/mian.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="31" column="35" lean-forward="true" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goroutine.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goroutine/hqchannel/hqchannel.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-122">
+          <caret line="102" column="10" lean-forward="true" selection-start-line="102" selection-start-column="10" selection-end-line="102" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goroutine/hqselect/hqselect1.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="41" column="42" lean-forward="true" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goroutine/hqselect/hqselect.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="48" column="23" lean-forward="true" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/go/1.10.1/libexec/src/builtin/builtin.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="865">
+          <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filelistserver/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hqmigong/migong.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hqmigong/migong">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HqCrawler/架构.png" />
+    <entry file="file://$PROJECT_DIR$/httpclient/httpclient.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="51" lean-forward="true" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/go/1.10.1/libexec/src/regexp/regexp.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="1054" column="18" selection-start-line="1054" selection-start-column="18" selection-end-line="1054" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hqmux/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="29" column="19" lean-forward="true" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hqmigong/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+          <folding>
+            <element signature="e#14#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haregx/hqregx.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="734">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="e#14#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/go/1.10.1/libexec/src/time/time.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="619" column="5" selection-start-line="619" selection-start-column="5" selection-end-line="619" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hqmiddleware/hqrouter/hqtoure.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/local/Cellar/go/1.10.1/libexec/src/net/http/server.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="1942" column="5" selection-start-line="1942" selection-start-column="5" selection-end-line="1942" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hqmiddleware/hqrouter/hqrouter.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hqmiddleware/hqmiddleware.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="e#14#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
