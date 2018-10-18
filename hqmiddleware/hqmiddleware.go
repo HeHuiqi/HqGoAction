@@ -42,8 +42,11 @@ func logMiddleware(next http.Handler) http.Handler {
 func main() {
 
 	r := hqrouter.NewRouter()
+
 	r.Use(timeMiddleware)
+
 	r.Use(logMiddleware)
+
 	r.Add("/",hello)
 	r.Add("/home",home)
 
