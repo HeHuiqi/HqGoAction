@@ -37,6 +37,7 @@ func ChannelDoWorkDemo()  {
 	for i:=0; i<count;i++  {
 		workers[i].in <- i
 	}
+
 	//通知写入完成
 	for _,w:= range workers {
 		<- w.done
@@ -50,6 +51,7 @@ func ChannelDoWorkDemo()  {
 	for _,w:= range workers {
 		<- w.done
 	}
+
 
 
 }
