@@ -4,6 +4,7 @@ import (
 	"runtime"
 	"time"
 	"fmt"
+	"HqGoAction/goroutine/hqselect"
 )
 
 /*
@@ -41,32 +42,13 @@ func main() {
 	//hqchannel.ChannelDoWorkDemo1()
 	//hqchannel.ChannelDoWorkDemo2()
 	//hqselect.HqSelectDemo()
-	//hqselect.HqSelectDemo1()
+	hqselect.HqSelectDemo1()
 
-	myChan := make(chan int)
-	go testChan(myChan)
-	myChan <- 10
-	var numbers = [...]int{}
-	//range会阻塞当前协程
-	for _,v:= range numbers {
-		fmt.Println(v)
+	//hqchannel.HqStartTask()
 
-	}
+
+
 
 }
-func testChan(c chan int)  {
-	for i:=0;i<1000 ;i++  {
-		if i < 10{
-			fmt.Println("000000-----",i)
 
-		}
-		if i> 998 {
-			fmt.Println("wait----",i)
-		}
-
-	}
-	v := <- c
-	fmt.Println("vvv----",v)
-
-}
 
