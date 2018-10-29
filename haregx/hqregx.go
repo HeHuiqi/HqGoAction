@@ -11,7 +11,20 @@ My email haha@qq.com
 My email hehe@abc.com.cn
 `
 func main() {
-	simpleRegex()
+	//simpleRegex()
+	cityName()
+}
+
+func cityName()  {
+
+	test := "http://www.zhenai.com/zhenghun/aba"
+	//test = "http://www.zhenai.com/zhenghun/alashanmeng"
+
+	var cityPinyinRe = regexp.MustCompile(`http://www.zhenai.com/zhenghun/([^/]+)`)
+	reult := cityPinyinRe.FindStringSubmatch(test)
+	fmt.Println(reult[1])
+
+
 }
 func publicRegex()  {
 	//regx := `[a-zA-Z0-9]+@[a-zA-Z0-9]+\.[a-zA-Z0-9]+`
