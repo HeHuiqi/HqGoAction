@@ -44,16 +44,12 @@ func logMiddleware(next http.Handler) http.Handler {
 }
 func main() {
 
-	//r := hqrouterpro.NewHQQHandler()
-	//r.AddRoute("/",hello)
-	//r.AddRoute("/home",home)
 
 	r := hqrouter.NewRouter()
-	r.Use(logMiddleware)
 	r.Use(timeMiddleware)
+	r.Use(logMiddleware)
 	r.Add("/",http.HandlerFunc(hello))
 	r.Add("/home",http.HandlerFunc(home))
-
 
 
 	//r := hqrouterpro.NewHQQHandler()
