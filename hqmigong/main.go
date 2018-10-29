@@ -87,7 +87,7 @@ func walk(maze [][]int,start,end point) [][]int {
 	return steps
 }
 func main() {
-	maze:=readMaze("migong")
+	maze:=readMaze("./hqmigong/migong")
 
 
 	for _,row := range maze{

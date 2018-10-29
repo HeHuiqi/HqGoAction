@@ -13,7 +13,7 @@ func generator1() chan int {
 
 		for  {
 			//产生数据
-			time.Sleep(time.Duration(rand.Intn(1500))*time.Millisecond)
+			time.Sleep(time.Duration(rand.Intn(800))*time.Millisecond)
 			out <- i
 			i++
 		}
@@ -24,7 +24,7 @@ func generator1() chan int {
 func worker1(id int,c chan  int)  {
 
 
-	//range自动检测channel是否close
+	//range会自动检测channel是否close
 	for n := range c {
 		//每隔一秒消耗一个数据
 		time.Sleep(time.Second)
@@ -48,7 +48,7 @@ func HqSelectDemo1()  {
 	 tm := time.After(time.Duration(time.Second*10))
 
 	 //超时处理
-	 timeout := time.After(time.Duration(rand.Intn(800))*time.Millisecond)
+	 timeout := time.After(time.Duration(rand.Intn(1500))*time.Millisecond)
 
 	 //定时每各一秒写入一个数据
 	 tick := time.Tick(time.Second)
@@ -67,14 +67,14 @@ func HqSelectDemo1()  {
 			//fmt.Println("Received form c1:",n)
 			values = append(values,n)
 		case n := <- c2:
-			//fmt.Println("Received form c1:",n)
+			//fmt.Println("Received form c2:",n)
 			values = append(values,n)
 		case activeWorker <- activeValue:
 			values = values[1:]
 		case <- timeout:
 			fmt.Println("timeout")
 		case <- tick:
-			fmt.Println("11queue len =",len(values))
+			//fmt.Println("v_queue length =",len(values))
 
 		case <-tm:
 			fmt.Println("Bye")
