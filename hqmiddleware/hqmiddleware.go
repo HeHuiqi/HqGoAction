@@ -5,7 +5,7 @@ import (
 	"time"
 	"log"
 	"fmt"
-	"HqGoAction/hqmiddleware/hqrouter"
+	"HqGoAction/hqmiddleware/hqrouterpro"
 )
 
 func hello(wr http.ResponseWriter, r *http.Request) {
@@ -45,16 +45,16 @@ func logMiddleware(next http.Handler) http.Handler {
 func main() {
 
 
-	r := hqrouter.NewRouter()
-	r.Use(timeMiddleware)
-	r.Use(logMiddleware)
-	r.Add("/",http.HandlerFunc(hello))
-	r.Add("/home",http.HandlerFunc(home))
+	//r := hqrouter.NewRouter()
+	//r.Use(timeMiddleware)
+	//r.Use(logMiddleware)
+	//r.Add("/",http.HandlerFunc(hello))
+	//r.Add("/home",http.HandlerFunc(home))
 
 
-	//r := hqrouterpro.NewHQQHandler()
-	//r.AddRoute("/",hello)
-	//r.AddRoute("/home",home)
+	r := hqrouterpro.NewHQQHandler()
+	r.AddRoute("/",hello)
+	r.AddRoute("/home",home)
 
 	fmt.Println("http://127.0.0.1:9090/")
 	http.ListenAndServe(":9090", r)

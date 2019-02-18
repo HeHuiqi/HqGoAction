@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b683fd9e-a23c-4817-928f-7b4574d3cdc6" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hqmiddleware/hqmiddleware.go" beforeDir="false" afterPath="$PROJECT_DIR$/hqmiddleware/hqmiddleware.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hqmux/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/hqmux/main.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,8 +24,11 @@
       <file leaf-file-name="hqmiddleware.go" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hqmiddleware/hqmiddleware.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+            <state relative-caret-position="284">
+              <caret line="58" column="14" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="14" />
+              <folding>
+                <element signature="e#14#94#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -31,33 +36,11 @@
       <file leaf-file-name="hqrouter.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hqmiddleware/hqrouterpro/hqrouter.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="115">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="e#21#50#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hqrouter.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hqmiddleware/hqrouter/hqrouter.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
-              <folding>
-                <element signature="e#106#198#0" />
-                <element signature="n#!!block;n#Use#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -102,15 +85,15 @@
         <option value="$PROJECT_DIR$/goroutine/mian.go" />
         <option value="$PROJECT_DIR$/goroutine/hqchannel/hqchannel.go" />
         <option value="$PROJECT_DIR$/goroutine/hqselect/hqselect1.go" />
-        <option value="$PROJECT_DIR$/hqmux/main.go" />
         <option value="$PROJECT_DIR$/filelistserver/main.go" />
         <option value="$PROJECT_DIR$/migong" />
         <option value="$PROJECT_DIR$/hqmigong/main.go" />
         <option value="$PROJECT_DIR$/httpclient/httpclient.go" />
         <option value="$PROJECT_DIR$/hqmiddleware/hqrouter/hqtoure.go" />
         <option value="$PROJECT_DIR$/haregx/hqregx.go" />
-        <option value="$PROJECT_DIR$/hqmiddleware/hqrouter/hqrouter.go" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/hqmiddleware/hqrouter/hqrouter.go" />
+        <option value="$PROJECT_DIR$/hqmux/main.go" />
         <option value="$PROJECT_DIR$/hqmiddleware/hqmiddleware.go" />
       </list>
     </option>
@@ -125,6 +108,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="36" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="729" />
@@ -137,6 +121,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,29 +132,13 @@
             <path>
               <item name="HqGoAction" type="b2602c69:ProjectViewProjectNode" />
               <item name="HqGoAction" type="462c0819:PsiDirectoryNode" />
-              <item name="haregx" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HqGoAction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HqGoAction" type="462c0819:PsiDirectoryNode" />
               <item name="hqmiddleware" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HqGoAction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HqGoAction" type="462c0819:PsiDirectoryNode" />
-              <item name="hqmiddleware" type="462c0819:PsiDirectoryNode" />
-              <item name="hqrouter" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HqGoAction" type="b2602c69:ProjectViewProjectNode" />
               <item name="HqGoAction" type="462c0819:PsiDirectoryNode" />
               <item name="hqmiddleware" type="462c0819:PsiDirectoryNode" />
               <item name="hqrouterpro" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HqGoAction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HqGoAction" type="462c0819:PsiDirectoryNode" />
-              <item name="hqmigong" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HqGoAction" type="b2602c69:ProjectViewProjectNode" />
@@ -185,7 +154,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -310,18 +278,18 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="729" extended-state="6" />
+    <frame x="36" y="23" width="1280" height="729" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49918962" visible="true" weight="0.18012924" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49918962" visible="true" weight="0.18497577" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="right" id="Database" order="0" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.38449368" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.24683544" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info id="Structure" order="2" sideWeight="0.5006605" side_tool="true" weight="0.17044567" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.4414557" />
+      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.2056962" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39915967" />
       <window_info id="Favorites" order="0" sideWeight="0.50161815" side_tool="true" weight="0.17044567" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
@@ -346,20 +314,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hqmiddleware/hqrouter/hqrouter.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/haregx/hqregx.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#14#41#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -381,9 +339,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="22" column="74" lean-forward="true" selection-start-line="22" selection-start-column="74" selection-end-line="22" selection-end-column="82" />
-          <folding>
-            <element signature="e#14#41#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -419,9 +374,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="817">
           <caret line="43" selection-start-line="43" selection-end-line="43" />
-          <folding>
-            <element signature="e#14#41#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -486,9 +438,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/table_test.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/filelistserver/listfileserver_test.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="760">
@@ -526,9 +475,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/goroutine.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/goroutine/hqchannel/hqchannel.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-122">
@@ -551,16 +497,6 @@
       </provider>
     </entry>
     <entry file="file:///usr/local/Cellar/go/1.10.1/libexec/src/builtin/builtin.go" />
-    <entry file="file://$PROJECT_DIR$/filelistserver/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hqmigong/migong.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/hqmigong/migong">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -569,21 +505,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HqCrawler/架构.png" />
-    <entry file="file://$PROJECT_DIR$/httpclient/httpclient.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="51" lean-forward="true" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/local/Cellar/go/1.10.1/libexec/src/regexp/regexp.go" />
-    <entry file="file://$PROJECT_DIR$/hqmux/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="29" column="19" lean-forward="true" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hqmigong/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -605,20 +527,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#14#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hqmiddleware/hqrouter/hqrouter.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
-          <folding>
-            <element signature="e#106#198#0" />
-            <element signature="n#!!block;n#Use#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -629,10 +537,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/hqmigong/migong.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/httpclient/httpclient.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="21" column="51" lean-forward="true" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goroutine.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table_test.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hqmux/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <element signature="e#14#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filelistserver/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hqmiddleware/hqrouter/hqrouter.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+          <folding>
+            <element signature="e#106#198#0" />
+            <element signature="n#!!block;n#Use#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/hqmiddleware/hqrouterpro/hqrouter.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="115">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="e#21#50#0" expanded="true" />
           </folding>
@@ -641,8 +596,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hqmiddleware/hqmiddleware.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+        <state relative-caret-position="284">
+          <caret line="58" column="14" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="14" />
+          <folding>
+            <element signature="e#14#94#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

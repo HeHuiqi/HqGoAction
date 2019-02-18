@@ -19,6 +19,7 @@ func (h *HQQHandler)AddRoute(path string,handle HqHandle)  {
 
 	h.routers[path] = handle
 }
+//实现了ServeHTTP接口
 func (h *HQQHandler) ServeHTTP(w http.ResponseWriter, r *http.Request) {
 
 	path := r.URL.Path
